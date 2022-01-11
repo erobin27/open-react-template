@@ -86,7 +86,7 @@ const Hero = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/cruip/open-react-template/"
+                    href="https://www.youtube.com/watch?v=Gzfvh3AnpxI"
                   >
                     View on YouTube
                   </Button>
@@ -100,7 +100,7 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <a
-              data-video="https://youtu.be/1dWNhtjVAR8"
+              data-video="https://www.youtube.com/embed/Gzfvh3AnpxI"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
@@ -118,7 +118,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://www.youtube.com/embed/1dWNhtjVAR8"
+            video="https://www.youtube.com/embed/Gzfvh3AnpxI"
             videoTag="iframe"
           />
         </div>
