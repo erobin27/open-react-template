@@ -45,7 +45,7 @@ const Testimonial = ({
 
   const sectionHeader = {
     title: 'Customer testimonials',
-    paragraph: 'Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.'
+    paragraph: 'Each of these testimonials are taken from actual youtubers and streamers who have recorded content while using the product. One being a YouTuber with over 80,000 subscribers! Feel free to leave a testimonial in our discord or youtube to be featured if you love the product.'
   };
 
   return (
@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — How has this not been banned?  ffs lol I have never used hacks for this long without being banned, idk how you do it.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Roman Level</span>
+                  <span className="testimonial-item-name text-color-high">Anon</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">YouTuber</a>
                   </span>
                 </div>
               </div>
@@ -79,14 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — Yes, your favorite Youtuber uses this.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
+                  <span className="testimonial-item-name text-color-high">Comment</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">YouTube</a>
                   </span>
                 </div>
               </div>
@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — I don't think I can go back to playing regularly after using this for so long.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Ben Stafford</span>
+                  <span className="testimonial-item-name text-color-high">Anon</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Twitch</a>
                   </span>
                 </div>
               </div>

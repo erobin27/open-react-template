@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Build up the whole picture',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'First public streaming hacks',
+    paragraph: 'These hacks have been private and used by some of the most popular youtubers/streamers for 2+ years. The hacks have an array of adjustable features all of which are shown off screen undetectable by viewers or EAC.'
   };
 
   return (
@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Adjustable Recoil
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Unlike traditional scripts which are detectable by EAC and viewers these hacks write directly to Rust memory allowing you automatically adjust your recoil on the fly. This can make for very realistic recoil which is easy to control.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Adjustable Aimcone
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    No scripts ever let you change the aimcone. This makes for an extremely accurate spray without the worry of recoil bloom.
                     </p>
                 </div>
               </div>
@@ -115,11 +115,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Enemy Radar
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    This radar is best used offscreen and can allow you to see all active players near you. This is a perfect legit alternative to ESP that will not give you away as a cheater.
+                  </p>
                 </div>
               </div>
             </div>
@@ -137,11 +137,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Undetected
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    These hacks are executed at the Kernel level and have been undetected by EAC for 3 years since first put in production.
+                  </p>
                 </div>
               </div>
             </div>
@@ -159,11 +159,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    For Content Creators
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    These hacks were made specifically for content creation and adjustable usability. The whole time features were added we made sure that it was going to help content creators and go undetected by viewers.
+                  </p>
                 </div>
               </div>
             </div>
@@ -181,11 +181,11 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    24/7 Support
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    If you have trouble with your order we have support that can help you immediately or refund your order completely if within the 3-days of transaction.
+                  </p>
                 </div>
               </div>
             </div>
